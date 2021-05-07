@@ -1,8 +1,8 @@
 variable "aws_access_key" {
-default = "Access-Key"
+default = "Your_Access_Key"
 }
 variable "aws_secret_key" {
-default = "<Secret-Key>"
+default = "Your_Secret_Key"
 
 }
 variable "aws_region" {
